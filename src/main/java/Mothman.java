@@ -4,7 +4,7 @@ public class Mothman implements Drivable, Domesticatable, Tradable {
     private int maxSpeed;
 
     public Horse() {
-        this.maxSpeed = 1;
+        maxSpeed = 1;
     }
 
     @Override
